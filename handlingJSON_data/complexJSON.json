@@ -1,0 +1,39 @@
+{
+    "results": [
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "ms",
+                    "first": "genelva",
+                    "last": "spits"
+                },
+                "location": {
+                    "street": "1510 vismarkt",
+                    "city": "gennep",
+                    "state": "overijssel",
+                    "zip": 35356
+                },
+                "email": "genelva.spits@example.com",
+                "username": "heavymouse553",
+                "password": "reilly",
+                "salt": "Ow1yPEwt",
+                "md5": "5ca781128809378d8b6d9080410ab4f1",
+                "sha1": "9ca54944aabc7cb8416a6d66544be08f91d7376e",
+                "sha256": "689270bf9e71e45a20c9c274025546a10361153b2237b0032e045f25b3c6a9dd",
+                "registered": 1127264289,
+                "dob": 600095165,
+                "phone": "(262)-845-9855",
+                "cell": "(727)-635-6624",
+                "BSN": "12059376",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/45.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/45.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/45.jpg"
+                }
+            }
+        }
+	],
+    "nationality": "NL",
+    "version": "0.8"
+}
